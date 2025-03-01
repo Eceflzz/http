@@ -1,0 +1,481 @@
+{
+    "movies":[
+    {
+        "title": "INCEPTION",
+        "poster": "inception.jpg",
+        "summary": "A mind-bending thriller...",
+        "actors": ["Leonardo DiCaprio", "Joseph Gordon-Levitt", "Elliot Page"],
+        "moods": ["alive"]  
+    },
+    {
+        "title": "OCEAN'S 11",
+        "poster": "Oceans11.jpg",
+        "summary": "İf you want to feel in actions and some fun I recommend this movie cause this script it tells about a PERFECT LAS VEGAS robbery.Also this movie goin on with Ocean's 12,Ocean's 13 all movies have a crazy actors.",
+        "actors": ["George Clooney", "Julia Roberts", "Matt Damon","Brad Pitt","Andy Garcia..."],
+        "moods": ["alive"]  
+    },
+    {
+        "title": "INTO THE WILD",
+        "poster": "Intothewild.jpg",
+        "summary": "This story of a young man'S journey from city life to the wild,from the chaos of modern society to the purity of nature.Christopher is a top student ar a prestigious university ands a successful athlete.After his graduation he decides to he shouldn't live this life ,that feels wrong,lide a missing piece.So he left his all money an leaves everything behind and sets off on a journey to completely different and difficult ,life in this journey he meets a lot of people to change his perspective along the way...lets learn the rest together ",
+        "actors": ["Emile Hirsch"],
+        "moods": ["alive"]  
+    },
+    {
+        "title": "LITTLE MISS SUNSHINE", 
+        "poster": "LMS.jpeg",
+        "summary": "Hoover family's little daugther Olive, wants to enter the  Little Miss Sunshine pageant this family going a ride for Olive but all of them have different personality and in this journey they will learn to love and accept eachother",
+        "actors": ["Greg Kinnear","Toni Collette","Steve Carell","Paul Dano","Abigail Breslin","Alan Arkin"],
+        "moods": ["alive"]  
+    },
+    {
+        "title": "OLUMLU DUNYA",
+        "poster": "od.jpeg",
+        "summary": "The Mermer Family, consisting of 8 people who have been running the Anadolu Tat Restaurant in Haydarpaşa Train Station for many years, seems like an ordinary business family when looked at from the outside. However, there is a big secret that this family is hiding. The family members are hired killers and they work for a worldwide organization. However, after some mistakes they make, they are exposed and exposed. From this point on, they will have no choice but to escape from the organization that is after them.",
+        "actors": ["Ahmet Mümtaz Taylan" , "Alper Kul" , "Irem Sak", "Sarp Apak" , "Ozgür Emre Yıldırım"],
+        "moods": ["alive"]  
+    },
+    {
+        "title": "AILE ARASINDA",
+        "poster": "AA.jpg",
+        "summary": "Fikret after abandoned he meets a woman this woman abandoned like Fikret .This people know each other chaotic way.Solmaz and Fikret pretend like wife and husband for Solmaz daughter wedding.",
+        "actors": ["Engin Günaydın","Demet Evgar","Su Kutlu","Sevket Coruh","Derya Karadas"],
+        "moods": ["happy"] 
+    },
+    {
+        "title": " HUKUMET KADIN ",
+        "poster": "HK.jpg",
+        "summary": "Turkish movies are really good about comedy Hükümet Kadın one of them.She have 8 childs,and she is from midyat,Only different thing about her, husband was the mayor of Midyat.One day everything change an this woman become a mayor of Midyat",
+        "actors": ["Demet Akbag" , "Ercan Kesal" , "Bülent Colak" , "Cezmi Baskın" , "Mahir İpek"],
+        "moods": ["happy"] 
+    },
+    {
+        "title": "RED ONE",
+        "poster": "red.jpg",
+        "summary": "New generation movie,In this movie we have everything but before christmas Santa Claus kidnapping and the adventure of our heroes who want to save begins like this ..",
+        "actors": ["Dwayne Johnson", "Chris Evans", "Lucy Liu"],
+        "moods": ["happy"] 
+    }, 
+    {
+        "title": "R.I.P.D \n Rest In Peace Department ",
+        "poster": "RIPD.jpg",
+        "summary": "Two imprisoned men bond over a number of years...",
+        "actors": ["Jeff Bridges", "Ryan Reynolds", "Kevin Bacon"],
+        "moods": ["happy"] 
+    }, 
+    {
+        "title": "THE GRAND BUDAPEST HOTEL ",
+        "poster": "TGBH.jpeg",
+        "summary": "Directed by Wes Anderson.We can see his on style in this movie.Set in a fictional European country in the 1930's,it follows Monsieur Gustave, the chrismatic concierge of the famous Grand Budapest Hptel,and his loyal lobby boy Zero Mustafa.When Gustavo is falsely accused of murder,he embarks on a wild adventure filled with hilarious chases,ecentric characters and clever dialogue.  ",
+        "actors": ["Ralph Fiennes", "Tony Revolori", "Adrien Brody", "Willem Dafoe", "Saoirse Ronan", "Jeff Goldblum"],
+        "moods": ["happy"] 
+    },
+    {
+        "title": "HUSH",
+        "poster": "hush.jpeg",
+        "summary": "Maddie, a deaf woman, moves into a house in the woods to live alone. Maddie, who is trying to finish her busy book, is very happy with her new options. But one day, a message she receives while she is in front of the computer turns everything upside down. The message contains a photo of her current state. Maddie, who is watching and thinking about someone outside the house, encounters a large number of masked killers. Maddie had to fight hard to get rid of the masked man who tried to enter the house.",
+        "actors": ["Kate Siegel", "John Gallagher Jr", "Michael Trucco"],
+        "moods": ["terrifying"]  
+    },
+    {
+        "title": "HIS HOUSE",
+        "poster": "HH.jpeg",
+        "summary": "A mind-bending thriller...",
+        "actors": ["Leonardo DiCaprio", "Joseph Gordon-Levitt", "Elliot Page"],
+        "moods": ["terrifying"]  
+    },
+    {
+        "title": "THE AUTOPSY OF JANE DOE",
+        "poster": "ajd.jpg",
+        "summary": "A mind-bending thriller...",
+        "actors": ["Leonardo DiCaprio", "Joseph Gordon-Levitt", "Elliot Page"],
+        "moods": ["terrifying"]  
+    },
+    {
+        "title": "REC",
+        "poster": "REC.jpeg",
+        "summary": "A mind-bending thriller...",
+        "actors": ["Leonardo DiCaprio", "Joseph Gordon-Levitt", "Elliot Page"],
+        "moods": ["terrifying"]  
+    },
+    {
+        "title": "ORPHAN",
+        "poster": "ORPHAN.jpeg",
+        "summary": "A mind-bending thriller...",
+        "actors": ["Leonardo DiCaprio", "Joseph Gordon-Levitt", "Elliot Page"],
+        "moods": ["terrifying"]  
+    },
+    {
+        "title": "ELEMENTAL",
+        "poster": "elemental.jpeg",
+        "summary": "A mind-bending thriller...",
+        "actors": ["Leonardo DiCaprio", "Joseph Gordon-Levitt", "Elliot Page"],
+        "moods": ["in love"]  
+    },
+    {
+        "title": "ETERNAL SUNSHINE OF THE SPOTLESS MIND",
+        "poster": "ESOTSM.jpeg",
+        "summary": "A mind-bending thriller...",
+        "actors": ["Leonardo DiCaprio", "Joseph Gordon-Levitt", "Elliot Page"],
+        "moods": ["in love"]  
+    },
+    {
+        "title": "THE SHAPE OF WATER",
+        "poster": "TSOW.jpeg",
+        "summary": "A mind-bending thriller...",
+        "actors": ["Leonardo DiCaprio", "Joseph Gordon-Levitt", "Elliot Page"],
+        "moods": ["in love"]  
+    },
+    {
+        "title": "A WALK TO REMEMBER",
+        "poster": "AWTR.jpg",
+        "summary": "A mind-bending thriller...",
+        "actors": ["Leonardo DiCaprio", "Joseph Gordon-Levitt", "Elliot Page"],
+        "moods": ["in love"]  
+    },
+    {
+        "title": "LOVE,ROSIE",
+        "poster": "LR.jpeg",
+        "summary": "A mind-bending thriller...",
+        "actors": ["Leonardo DiCaprio", "Joseph Gordon-Levitt", "Elliot Page"],
+        "moods": ["in love"]  
+    },
+    {
+        "title": "REQUIEM FOR A DREAM",
+        "poster":"RFAD.jpeg",
+        "summary":"Harry,Moriono and Tyrone selling and using drugs but they have been a few legal problems in their city after this situation we are seeing a real life tragedy.. ",
+        "actors":["Ellen Burstyn, Jared Leto, Jennifer Connelly   ", "Elliot Page"],
+        "moods":["Broken"]  
+    },
+    { 
+        "title": "THE PIANIST",
+        "poster":"Pst.jpeg",
+        "summary": "Pianist Szpilman,was invadid by poland Wold War 2.He have to live in getto because he is a Jewish but his life will change cause of a Gerrman Solder...",
+        "actors":["Adrien Brody", "Thomas Kretschmann", "Frank Finlay "],
+        "moods":["Broken"]  
+    },
+    { 
+        "title": "THE BLIND SIDE",
+        "poster":"BS.jpg",
+        "summary":"Synopsis. A young African American boy who doesn't know who his father is, whose mother is a drug addict, and who no one cares about among his 13 siblings, lives his life on the streets. This boy, who is illiterate and extremely unsuccessful in school, will change his life when he starts to be protected by a rich family.",
+        "actors":["Sandra Bullock","Quinton Aaron","Jae Head","Lilly Collins"],
+        "moods":["Broken"]  
+    },
+    { 
+        "title": "MANCHESTER BY THE SEA",
+        "poster":"MBTSS.jpg",
+        "summary": "Lee Chandler (Casey Affleck) is a divorced, quiet man who makes his living as a janitor in Quincy, Massachusetts. One day, when he receives news that his older brother Joe has had a heart attack, he returns to his hometown, the small seaside town of Manchester-by-the-Sea. However, when he arrives at the hospital, he learns that his brother has died. The real shock for Lee will be learning that he has been appointed as the guardian of his brother's 16-year-old son Patrick. He must move to this small town where he was born and raised to take care of the child, but the traumatic events Lee has experienced here will make him reluctant to move.",
+        "actors":["Casey Affleck","Lucas Hedges","Michelle Williams","Kyle Chandler"],
+        "moods":["Broken"]  
+    },
+    { 
+       "title": "THE SHAWSHANK REDEMPTION",
+        "poster":"shnk.jpg",
+        "summary":"The Shawshank Redemption tells the story of the world that two prisoners named Andy and Red create behind bars. Andy Dufresne is a young and successful banker. He is tried for the murder of his wife and her lover and is sentenced to life in prison. Beatings, torture, rape, all kinds of situations are experienced in Shawsank Prison, but Andy is still attached to life and optimistic. This attitude also affects those around him. With his hopeful perspective, Andy convinces all the prisoners around him that there is a free life even behind bars. Andy will also have a friend who will share in these efforts: Red. Morgan Freeman and Tim Robbins star in the film, which is a Stephen King adaptation. The film was nominated for an Oscar in 7 categories in 1995, including Best Picture.",
+        "actors":["Tim Robbins","Morgan Freeman","Bob Gunton","William Sadler"],
+        "moods":["Broken"]  
+    }
+],
+"books":[
+  {
+    "title": "THE ALCHEMIST ",
+    "poster": "assets/images/TALC_cover.jpg",
+    "summary": "This text is a magical fable about learning to listen to your heart, read the omens strewn along life's path and, above all, following your dreams. The book tells the story of Santiago, an Andalusian shepherd boy who dreams of travelling the world in search of a fabulous worldly treasure.",
+    "author": "Paulo Coelho ",
+    "moods": ["alive"]
+  },
+  {
+    "title": "AROUND THE WORLD In 80 DAYS",
+    "poster": "AWD.jpg",
+    "summary":"Certainly an Englishman, it was more doubtful whether Phileas Fogg was a Londoner. He was never seen on 'Change, nor at the Bank, nor in the counting-rooms of the City; no ships ever came into London docks of which he was the owner; he had no public employment; he had never been entered at any of the Inns of Court, either at the Temple, or Lincoln's Inn, or Gray's Inn; nor had his voice ever resounded in the Court of Chancery, or in the Exchequer, or the Queen's Bench, or the Ecclesiastical Courts. He certainly was not a manufacturer; nor was he a merchant or a gentleman farmer. His name was strange to the scientific and learned societies, and he never was known to take part in the sage deliberations of the Royal Institution or the London Institution, the Artisan's Association, or the Institution of Arts and Sciences…",
+    "author": "Jule Verne ",
+    "moods": ["alive"]
+  },
+  {
+    "title": "HARRY POTTER SERIES ",
+    "poster": "hp.jpg",
+    "summary": "The *Harry Potter* series follows a young wizard, Harry Potter, who discovers he is famous for surviving an attack by the dark wizard Lord Voldemort. The story chronicles his time at Hogwarts School of Witchcraft and Wizardry, where he forms close friendships and learns about magic. Ultimately, Harry battles Voldemort, exploring themes of good versus evil, friendship, love, and courage..",
+    "author": "JK ROWLING ",
+    "moods": ["alive"]
+  },
+  {
+    "title": "TREASURE ISLAND ",
+    "poster": "TI.jpg",
+    "summary": "One of the best-loved adventure stories ever written, Treas­ure Island's timeless tale of pirates, lost treasure maps, mutiny and derring-do has appealed to generations of readers ever since Robert Louis Stevenson penned it in 1881 with the claim: If this don’t fetch the kids, why, they have gone rotten since my day.But more than just a children’s classic, the novel is considered to be one of the greatest feats of storytelling in the English language, with characters such as the unforgettable Long John Silver becoming part of the cultural consciousness. Treasure Island is a coming-of-age story that will captivate both adults and children for as long as stories are told.",
+    "author": "Robert Louis Stevenson ",
+    "moods": ["alive"]
+  },
+  {
+    "title": "ISTANBUL HATIRASI ",
+    "poster": "IH.jpg",
+    "summary": "Istanbul Hatırası by Ahmet Ümit is a Turkish mystery-adventure novel. The story follows a murder investigation that takes place in Istanbul, with the city itself playing a central role. The plot weaves through both the historical and modern aspects of the city, taking readers on a journey across its streets, landmarks, and neighborhoods. The novel combines elements of suspense, intrigue, and the rich culture of Istanbul, offering a compelling and thrilling narrative for fans of crime and adventure stories. Ahmet Ümit masterfully explores the contrasts between the old and new worlds while keeping the reader hooked with a gripping mystery..",
+    "author": "Ahmet Umit",
+    "moods": ["alive"]
+  },
+  {
+    "title": "BIR DUGUN GECESI ",
+    "poster": "BDG.jpg",
+    "summary": "This book, one of the important works of Turkish literature, tells the events of a wedding night from a humorous and satirical perspective.",
+    "author": "Adalet Agaoglu ",
+    "moods": ["happy"]
+  },
+  {
+    "title": "A MIDSUMMER NIGHT'S DREAM ",
+    "poster": "SNIGHT.jpg",
+    "summary":"This book, one of the important works of Turkish literature, tells the events of a wedding night from a humorous and satirical perspective..",
+    "author": "William Shakespeare",
+    "moods": ["happy"]
+  },
+  {
+    "title": "HABABAM SINIFI ",
+    "poster": "HSIN.jpg",
+    "summary": "The free boarding students of this class, who were accused by their teachers of being lazy, naughty, and cheating, could not adapt to the authoritarian education system and expressed themselves in different ways. What they wanted was nothing but love and understanding. We all have common memories in the Hababam Class, which is the symbol of the struggle against this system that never changes.This class is the class of all of us…",
+    "author": "Rıfat Ilgaz",
+    "moods": ["happy"]
+  },
+  {
+    "title": "THE MISER",
+    "poster": "TMISER.jpg",
+    "summary": "This famous play by French playwright Molière, translated into Turkish, tells the comedic story of a man who is overly obsessed with money and stinginess. The play has been performed frequently since the 19th century and remains a humorous work.",
+    "author": "Molière",
+    "moods": ["happy"]
+ 
+  },
+  {
+    "title": "THE HITCHHIKER'S GUIDE TO THE GALAXY",
+    "poster": "HGG.jpg",
+    "summary":"Seconds before the Earth is demolished to make way for a galactic freeway, Arthur Dent is plucked off the planet by his friend Ford Prefect, a researcher for the revised edition of The Hitchhiker's Guide to the Galaxy who, for the last fifteen years, has been posing as an out-of-work actor.Together this dynamic pair begin a journey through space aided by quotes from The Hitchhiker's Guide (A towel is about the most massively useful thing an interstellar hitchhiker can have) and a galaxy-full of fellow travelers: Zaphod Beeblebrox--the two-headed, three-armed ex-hippie and totally out-to-lunch president of the galaxy; Trillian, Zaphod's girlfriend (formally Tricia McMillan), whom Arthur tried to pick up at a cocktail party once upon a time zone; Marvin, a paranoid, brilliant, and chronically depressed robot; Veet Voojagig, a former graduate student who is obsessed with the disappearance of all the ballpoint pens he bought over the years.",
+    "author": "Douglas Adams",
+    "moods": ["happy"]
+  },
+  {
+    "title": "DRACULA",
+    "poster": "drac.jpeg",
+    "summary": "A gothic horror novel about Count Dracula's journey from Transylvania to London, where he seeks to spread the undead curse.",
+    "author": "Bram Stoker",
+    "moods": ["terrifying"]
+  },
+  {
+    "title": "The SHINING",
+    "poster": "tshng.jpg",
+    "summary": "Jack Torrance, a winter caretaker of an isolated hotel, slowly descends into madness under the influence of supernatural forces, threatening his family.",
+    "author": "Stephen King",
+    "moods": ["terrifying"]
+  },
+  {
+    "title": "FRANKENSTEIN",
+    "poster": "frank.jpeg",
+    "summary": "Victor Frankenstein creates a creature from dead body parts, only to regret it as the monster seeks revenge and causes destruction.",
+    "author": "Mary Shelley",
+    "moods": ["terrifying"]
+  },
+  {
+    "title": "The Haunting of Hill House",
+    "poster": "thhouse.jpg",
+    "summary": "A woman is invited to stay at Hill House, where strange occurrences and a haunted past gradually reveal themselves in terrifying ways.",
+    "author": "Shirley Jackson",
+    "moods": ["terrifying"]
+  },
+  {
+    "title": "The Call of Cthulhu",
+    "poster": "tcoc.jpeg",
+    "summary": "An ancient alien god, Cthulhu, awakens, and the narrator uncovers the terrifying truth about the hidden cults that worship it.",
+    "author": "H.P. Lovecraft",
+    "moods": ["terrifying"]
+  },
+  {
+    "title": "ZEHRA",
+    "poster": "zehra.jpg",
+    "summary": "Zehra is a young girl raised in a small town. Abandoned by her father and neglected by her mother, she grows up with a deep sense of loneliness and a constant battle against the harsh environment around her. Despite all the odds, Zehra's resilience and search for belonging lead her to a new life where she finds friendship, love, and a purpose.",
+    "author": ["Elif Shafak"],
+    "moods": ["in love"]
+  },
+  {
+    "title": "ANTONIUS AND KLEOPATRA",
+    "poster": "avk.jpg",
+    "summary": "The story of the passionate and tragic love affair between the Roman general Mark Antony and the Egyptian queen Cleopatra. Their political alliance and personal love become the center of a dramatic power struggle that leads to betrayal, war, and ultimately their downfall. Their love is tested by ambition, loyalty, and fate, shaping the course of history.",
+    "author": ["William Shakespeare"],
+    "moods": ["in love"]
+  },
+  {
+    "title": "PRIDE AND PREJUDICE",
+    "poster": "avg.jpg",
+    "summary": "The novel follows the life of Elizabeth Bennet, one of five sisters, as she navigates love, relationships, and societal expectations in early 19th-century England. Her developing relationship with the proud Mr. Darcy challenges both of their preconceived notions about love, class, and pride, leading to a deeper understanding and mutual respect.",
+    "author": ["Jane Austen"],
+    "moods": ["in love"]
+  },
+  {
+    "title": "LETTER FROM AN UNKOWN WOMAN",
+    "poster": "BBKM.jpg",
+    "summary": "The story revolves around a passionate, one-sided love affair. A woman writes a letter to a man she has loved for years, though he has no memory of her. Through her heartfelt letter, she recounts their brief encounter and the love that she carried in silence, ultimately revealing her emotional journey and the depth of her unspoken feelings.",
+    "author": ["Stefan Zweig"],
+    "moods": ["in love"],
+    "book_options": ["E-book", "Audiobook", "Buy"]
+  },
+  {
+    "title": "WUTHERING HEUGHTS",
+    "poster": "wh.jpg",
+    "summary": "The novel tells the tragic tale of Heathcliff and Catherine, whose intense, destructive love spans generations. Set on the Yorkshire moors, their passionate relationship affects everyone around them, leading to vengeance, obsession, and an eventual curse that haunts their families. The story explores themes of love, revenge, and the dark side of human nature.",
+    "author": ["Emily Brontë"],
+    "moods": ["in love"]
+  },
+  {
+    "title": "LES MISÉRABLES",
+    "poster": "lm.jpg",
+    "summary": "Set against the backdrop of post-revolutionary France, this epic novel follows the lives of several characters, particularly Jean Valjean, an ex-convict, and his struggle for redemption. The story explores themes of love, sacrifice, and injustice, culminating in an emotionally devastating conclusion.",
+    "author": ["Victor Hugo"],
+    "moods": ["Broken"]
+  },
+  {
+    "title": "CATHERINE DE' MEDICI",
+    "poster": "cam.jpeg",
+    "summary": "A historical novel depicting the life of Catherine de' Medici, the Italian noblewoman who became the Queen of France. The book explores her deep love for her children, her political struggles, and the tragic outcomes of her ambitions.",
+    "author": ["C. W. Gortner"],
+    "moods": ["Broken"]
+  },
+  {
+    "title": "SENSE AND SENSIBILITY",
+    "poster": "sas.jpg",
+    "summary": "The Dashwood sisters, Elinor and Marianne, experience the ups and downs of love and heartbreak in 19th-century England. Elinor's rationality contrasts with Marianne's emotional spontaneity, leading to differing views on love and loss, ultimately showcasing the emotional complexities of life.",
+    "author": ["Jane Austen"],
+    "moods": ["Broken"]
+  },
+  {
+    "title": "THE GREEN MILE",
+    "poster": "tgmile.jpg",
+    "summary": "This novel follows the lives of death row prison guards, particularly Paul Edgecombe, who befriends a miraculous inmate named John Coffey. Coffey has a mysterious healing gift, but the tragic and unjust turn of events leads to a heartbreaking conclusion that will have you sobbing.",
+    "author": ["Stephen King"],
+    "moods": ["Broken"]
+  },
+  {
+    "title": "THE BOOK THIEF",
+    "poster": "tbt.jpg",
+    "summary": "Set during World War II in Nazi Germany, this novel follows Liesel Meminger, a young girl who finds solace in stealing books. As she navigates the horrors of war, Liesel’s journey is filled with love, loss, and the transformative power of words. Her bond with the people around her, especially with Max, a Jewish man hiding in her basement, will tear your heart apart.",
+    "author": ["Markus Zusak"],
+    "moods": ["Broken"]
+  }
+],
+  "music":[
+    {
+      "title": "INCI TANEM",
+      "poster": "ıt.jpg",
+      "singer": ["Karsu"],
+      "moods": ["terrifying"]
+    },
+    {
+      "title": "THE NIGHT WE MET",
+      "poster": "tnwm.jpeg",
+      "singer": ["Lord Huron"],
+      "moods": ["terrifying"]
+    },
+    {
+      "title": "SAY YOU LOVE ME",
+      "poster": "slm.jpeg",
+      "singer": ["Jessie Ware"],
+      "moods": ["terrifying"]
+    },
+    {
+      "title": "LA VIE EN ROSE",
+      "poster": "lvr.jpg",
+      "singer": ["Édith Piaf"],
+      "moods": ["terrifying"]
+    },
+    {
+      "title": "Breathe Me",
+      "poster": "bme.jpg",
+      "singer": ["Sia"],
+      "moods": ["terrifying"]
+    },
+    {
+      "title": "LOVESONG ",
+      "poster": "LS.jpg",
+      "singer": ["Adele"],
+      "moods": ["in love"]
+    },
+    {
+      "title": " PERFECT",
+      "poster": "edp.jpg",
+      "singer": ["Ed Sheeran"],
+      "moods": ["in love"]
+    },
+    {
+      "title": "DUSK TILL DAWN ",
+      "poster": "dtd.jpg",
+      "singer": ["Zayn Malik"],
+      "moods": ["in love"]
+    },
+    {
+      "title": "GIRLS LIKE YOU ",
+      "poster": "gly.jpg",
+      "singer": ["Maroon 5"],
+      "moods": ["in love"]
+    },
+    {
+      "title": "FEMME LIKE U",
+      "poster": "FLU.jpeg",
+      "singer": ["Monaldin"],
+      "moods": ["in love"]
+    },
+    {
+      "title": " ABER SIE x KARA SEVDA",
+      "poster": "AK.jpeg",
+      "singer": ["Unkown"],
+      "moods": ["Broken"]
+    },
+      {
+        "title": "YUREGIMDEN TUT",
+        "poster": "yurtut.jpeg",
+        "singer": ["Eylem Aktaş"],
+        "moods": ["Broken"]
+      },
+      {
+        "title": "NILUFER",
+        "poster": "nil.jpg",
+        "singer": ["Müslüm Gürses"],
+        "moods": ["Broken"]
+      },
+      {
+        "title": "SON BAKIS",
+        "poster": "sonb.jpeg",
+        "singer": ["Sezen Aksu"],
+        "moods": ["Broken"]
+      },
+      {
+        "title": "VUR YUREGIM",
+        "poster": "vyrgm.jpeg",
+        "singer": ["Sertab Erener"],
+        "moods": ["Broken"]
+      },
+
+        {
+          "title": "DÜNYA DÖNDÜ",
+          "poster": ".jpg",
+          "singer": ["Murat Boz"],
+          "moods": ["happy"]
+        },
+        {
+          "title": "HAPPY",
+          "poster": ".jpg",
+          "singer": ["Pharrell Williams"],
+          "moods": ["happy"]
+        },
+        {
+          "title": "BİRAZ TATLI BİR HİS",
+          "poster": ".jpg",
+          "singer": ["Sezen Aksu"],
+          "moods": ["happy"]
+        },
+        {
+          "title": "CAN'T STOP THE FEELING!",
+          "poster": ".jpg",
+          "singer": ["Justin Timberlake"],
+          "moods": ["happy"]
+        },
+        {
+          "title": "KAZANCAĞIZ",
+          "poster": ".jpg",
+          "singer": ["Tarkan"],
+          "moods": ["happy"]
+        }
+      ] 
+}
