@@ -1,0 +1,82 @@
+[
+    {
+        "id": "MOVIE1",
+        "name": "Umudunu Kaybetme",
+        "mood": "ÜZGÜN",
+        "description": "Bir satıcı, oğluna daha iyi bir hayat kurmak için engelleri aşar.",
+        "image": "uk.jpg",
+        "url": "https://www.imdb.com/title/tt0454921/"
+    },
+    {
+        "id": "MOVIE2",
+        "name": "Schindler'in Listesi",
+        "mood": "ÜZGÜN",
+        "description": "Holocaust sırasında binlerce Yahudi mültecisinin hayatını kurtaran bir işadamının gerçek hikayesi.",
+        "image": "sl.jpg",
+        "url": "https://www.imdb.com/title/tt0108052/"
+    },
+    {
+        "id": "MOVIE1",
+        "name": "Walter Mitty'nin Gizli Yaşamı",
+        "mood": "MUTLU",
+        "description": "Hayalperest bir adam, hayatını sonsuza dek değiştirecek olağanüstü bir maceraya atılır.",
+        "image": "wm.jpg",
+        "url": "https://www.imdb.com/title/tt0359950/"
+    },
+    {
+        "id": "MOVIE2",
+        "name": "Forrest Gump",
+        "mood": "MUTLU",
+        "description": "Zihinsel olarak yavaş ama kalpten iyi bir adam, olağanüstü hayat hikayesini anlatır.",
+        "image": "fg.jpg",
+        "url": "https://www.imdb.com/title/tt0109830/"
+    },
+    {
+        "id": "MOVIE1",
+        "name": "Not Defteri",
+        "mood": "AŞIK",
+        "description": "Nicholas Sparks'ın romanına dayanan, bir yaz aşkının ömür boyu süren romantik dramı.",
+        "image": "nd.jpg",
+        "url": "https://www.imdb.com/title/tt0332280/"
+    },
+    {
+        "id": "MOVIE2",
+        "name": "Titanik",
+        "mood": "AŞIK",
+        "description": "Genç bir çift, talihsiz RMS Titanic'te aşık olur.",
+        "image": "tit.jpg",
+        "url": "https://www.imdb.com/title/tt0120338/"
+    },
+    {
+        "id": "MOVIE1",
+        "name": "Mad Max: Fury Road",
+        "mood": "ENERJİK",
+        "description": "Distopik bir dünyada, patlayan aksiyon ve araba kovalamacalarla dolu yüksek tempolu bir aksiyon filmi.",
+        "image": "mf.jpg",
+        "url": "https://www.imdb.com/title/tt1392190/"
+    },
+    {
+        "id": "MOVIE2",
+        "name": "Yenilmezler",
+        "mood": "ENERJİK",
+        "description": "Bir grup süper kahraman, bir uzaylı istilasına karşı bir araya gelmek zorunda kalır.",
+        "image": "y.jpg",
+        "url": "https://www.imdb.com/title/tt0848228/"
+    },
+    {
+        "id": "MOVIE1",
+        "name": "Ayin",
+        "mood": "KORKU",
+        "description": "Bir aile, gizemli matriarşlarının ölümünün ardından, karanlık aile sırlarını açığa çıkarır.",
+        "image": "a.jpg",
+        "url": "https://www.imdb.com/title/tt7784604/"
+    },
+    {
+        "id": "MOVIE2",
+        "name": "Sessiz Bir Yer",
+        "mood": "KORKU",
+        "description": "Bir aile, sesle avlanan gizemli yaratıklardan kaçınmak için sessiz yaşamak zorundadır.",
+        "image": "sby.jpg",
+        "url": "https://www.imdb.com/title/tt6644200/"
+    }
+]

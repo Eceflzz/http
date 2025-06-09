@@ -1,0 +1,82 @@
+[
+    {
+        "id": "BOOK1",
+        "name": "Mutluluk Projesi",
+        "mood": "MUTLU",
+        "description": "Mutlu bir hayat için küçük ama anlamlı değişiklikler yaparak bir yıl süren bir deneme.",
+        "image": "mp.jpg",
+        "url": "https://www.goodreads.com/book/show/6348.The_Happiness_Project"
+    },
+    {
+        "id": "BOOK2",
+        "name": "Eleanor Oliphant Tamamen İyi",
+        "mood": "MUTLU",
+        "description": "İzole bir kadının duygusal büyümesini ve insan bağlantılarının gücünü konu alan tuhaf bir hikaye.",
+        "image": "eo.jpg",
+        "url": "https://www.goodreads.com/book/show/31443352-eleanor-oliphant-is-completely-fine"
+    },
+    {
+        "id": "BOOK3",
+        "name": "Çanlar Kimin İçin Çalıyor",
+        "mood": "ÜZGÜN",
+        "description": "Sylvia Plath'in, genç bir kadının zihinsel hastalıkla mücadelesini anlatan yarı otobiyografik romanı.",
+        "image": "çk.jpg",
+        "url": "https://www.goodreads.com/book/show/2527.The_Bell_Jar"
+    },
+    {
+        "id": "BOOK4",
+        "name": "Biraz Hayat",
+        "mood": "ÜZGÜN",
+        "description": "Dört üniversite arkadaşının yetişkinlik hayatlarını takip ederken, dostluk ve travmaların yıkıcı bir hikayesi.",
+        "image": "bh.jpg",
+        "url": "https://www.goodreads.com/book/show/22822858-a-little-life"
+    },
+    {
+        "id": "BOOK5",
+        "name": "Gurur ve Önyargı",
+        "mood": "AŞIK",
+        "description": "Elizabeth Bennet ve Mr. Darcy'nin zamansız aşk hikayesini anlatan Jane Austen klasiği.",
+        "image": "pride_and_prejudice.jpg",
+        "url": "https://www.goodreads.com/book/show/1885.Pride_and_Prejudice"
+    },
+    {
+        "id": "BOOK6",
+        "name": "Not Defteri",
+        "mood": "AŞIK",
+        "description": "1940 yazında birbirlerine aşık olan bir çiftin dokunaklı romantik hikayesi.",
+        "image": "nd.jpg",
+        "url": "https://www.goodreads.com/book/show/15931.The_Notebook"
+    },
+    {
+        "id": "BOOK7",
+        "name": "Koşmaya Doğru",
+        "mood": "ENERJİK",
+        "description": "Bruce Springsteen'in hayatını ve müzik ile performansa olan tutkusunu anlatan bir anı kitabı.",
+        "image": "kd.jpg",
+        "url": "https://www.goodreads.com/book/show/25319633-born-to-run"
+    },
+    {
+        "id": "BOOK8",
+        "name": "Alışkanlıkların Gücü",
+        "mood": "ENERJİK",
+        "description": "Alışkanlıkların nasıl çalıştığını ve daha üretken bir yaşam yaratmak için nasıl değiştirilebileceğini inceleyen bir kitap.",
+        "image": "power_of_habit.jpg",
+        "url": "https://www.goodreads.com/book/show/12609433-the-power-of-habit"
+    },
+    {
+        "id": "BOOK9",
+        "name": "Medyum",
+        "mood": "KORKU",
+        "description": "Stephen King'in, bir ailenin uzak bir otelde geçirdiği korkunç bir hikayeyi anlatan ikonik korku romanı.",
+        "image": "M.jpg",
+        "url": "https://www.goodreads.com/book/show/11588.The_Shining"
+    },
+    {
+        "id": "BOOK10",
+        "name": "O",
+        "mood": "KORKU",
+        "description": "Bir grup çocuğun, en derin korkularını hedef alan şeytani bir varlıkla yüzleşmelerini konu alır.",
+        "image": "O.jpg",
+        "url": "https://www.goodreads.com/book/show/8305026-it"
+    }
+]

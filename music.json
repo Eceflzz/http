@@ -1,0 +1,82 @@
+[
+    {
+        "id": "MUSIC1",
+        "name": "Disturbia",
+        "mood": "TERRIFYING",
+        "description": "Rihanna'nın, korkutucu bir durumda hapsolmuş hissetmenin yoğunluğunu yakalayan parçası.",
+        "image": "di.jpg",
+        "url": "https://www.youtube.com/watch?v=E1m_zVFV7N0"
+    },
+    {
+        "id": "MUSIC2",
+        "name": "Bury a Friend",
+        "mood": "TERRIFYING",
+        "description": "Billie Eilish'in karanlık düşünceler ve kabuslar hakkında ürkütücü şarkısı.",
+        "image": "baf.jpg",
+        "url": "https://www.youtube.com/watch?v=HU5J9X7YjTQ"
+    },
+    {
+        "id": "MUSIC3",
+        "name": "Can’t Stop the Feeling!",
+        "mood": "ALIVE",
+        "description": "Justin Timberlake'in, güne enerjik bir başlangıç yapmak için mükemmel, neşeli şarkısı.",
+        "image": "csf.jpg",
+        "url": "https://www.youtube.com/watch?v=ru0K8uYEZWw"
+    },
+    {
+        "id": "MUSIC4",
+        "name": "Stronger",
+        "mood": "ALIVE",
+        "description": "Kanye West'in engelleri aşma konusunda motive edici marşı.",
+        "image": "s.jpg",
+        "url": "https://www.youtube.com/watch?v=PsO6ZnUZI0g"
+    },
+    {
+        "id": "MUSIC5",
+        "name": "Perfect",
+        "mood": "IN LOVE",
+        "description": "Ed Sheeran'in, kalıcı aşka adanmış romantik baladı.",
+        "image": "pes.jpg",
+        "url": "https://www.youtube.com/watch?v=2Vv-BfVoq4g"
+    },
+    {
+        "id": "MUSIC6",
+        "name": "All of Me",
+        "mood": "IN LOVE",
+        "description": "John Legend'in, karısına adanmış güzel aşk şarkısı.",
+        "image": "aom.jpg",
+        "url": "https://www.youtube.com/watch?v=450p7goxZqg"
+    },
+    {
+        "id": "MUSIC7",
+        "name": "Someone Like You",
+        "mood": "BROKEN",
+        "description": "Adele'in kayıp ve karşılıksız aşk hakkında hüzünlü baladı.",
+        "image": "sly.jpg",
+        "url": "https://www.youtube.com/watch?v=hLQl3WQQoQ0"
+    },
+    {
+        "id": "MUSIC8",
+        "name": "The Night We Met",
+        "mood": "BROKEN",
+        "description": "Lord Huron'un, kaybolan aşk ve pişmanlık hakkında melankolik şarkısı.",
+        "image": "nwm.jpg",
+        "url": "https://www.youtube.com/watch?v=NTJzTzRAJ8s"
+    },
+    {
+        "id": "MUSIC9",
+        "name": "Happy",
+        "mood": "HAPPY",
+        "description": "Pharrell Williams'in, mutluluğu ve pozitifliği kutlayan bulaşıcı şarkısı.",
+        "image": "happy.jpg",
+        "url": "https://www.youtube.com/watch?v=ZbZSe6N_BXs"
+    },
+    {
+        "id": "MUSIC10",
+        "name": "Good as Hell",
+        "mood": "HAPPY",
+        "description": "Lizzo'nun, özgüven ve öz-sevgi aşılayan güçlendirici marşı.",
+        "image": "gah.jpg",
+        "url": "https://www.youtube.com/watch?v=IYdJpTgfcmE"
+    }
+]
